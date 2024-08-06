@@ -1,3 +1,5 @@
+![banner](https://github.com/RajeevRanjan5642/Airlines-Data-Analysis/blob/main/img/banner.png)
+
 # Airlines Data Analysis ✈️🧑‍✈️
 
 ## Business Problem 💡
