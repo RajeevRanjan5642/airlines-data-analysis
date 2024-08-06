@@ -11,7 +11,7 @@ costs. These challenges are putting pressure on the company's profitability, and
 challenge, the company is planning to analyze their database and identify opportunities to increase the occupancy rate, thereby boosting the average profit earned 
 per seat.
 
-## Key Obstacles 
+## Key Obstacles ⚠️
 🛑 <b>Stricter environmental regulations</b>: The airlines industry is facing increasing pressure to reduce its carbon footprint, leading to the implementation of more stringent
     environmental laws. These regulations not only raise operating costs but also restrict the potential for expansion.
 
