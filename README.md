@@ -1,4 +1,4 @@
-![banner](https://github.com/RajeevRanjan5642/Airlines-Data-Analysis/blob/main/img/banner.png)
+![banner](https://github.com/user-attachments/assets/3763e642-e93d-47ac-b0a4-69901ee0c31a)
 
 # Airlines Data Analysis ✈️🧑‍✈️
 
