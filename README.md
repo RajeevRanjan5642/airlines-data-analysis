@@ -88,6 +88,29 @@ Database URL : https://www.kaggle.com/datasets/shahnbej007/travel-sqlite/data
 - Also, profit should not come at the price of consumer satisfaction and safety. So, airlines must strike a balance b/w the necessity for profit and the significance of delivering high-quality service and upholding safety regulations. Balancing these factors is key to long term success in the competitive airline industry.
 - Adopting a data-driven approach to revenue analysis and optimization can lead to sustainable growth and success.
 
+## Power BI Report
+
+- Key Insights
+
+![Image](https://github.com/user-attachments/assets/ceba141a-358b-4216-a4ff-67b9e0a864dd)
+
+- Occupancy Analysis
+
+![Image](https://github.com/user-attachments/assets/ac918d61-41e4-472d-ad46-8022107ca0bd)
+
+
+## Tools and Technologies used :
+
+1. Python
+2. SQL
+3. Pandas
+4. Matplotlib
+5. Seaborn
+6. sqlite3
+7. PowerBI Desktop
+8. Power BI Query Editor
+9. Jupyter Notebook
+
     
 
 
